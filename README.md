@@ -1,1 +1,1 @@
-# Symbolic Manipulation of the Z value of PCFGs
+Realized symbolic manipulation of the Z value of PCFGs.
